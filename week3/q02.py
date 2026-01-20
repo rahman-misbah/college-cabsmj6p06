@@ -1,6 +1,4 @@
-nums = input("Enter  numbers separated by space: ")
-nums = list(map(int, nums.split(" ")))
+celsius = float(input("Enter temperature in clesius: "))
+fahrenheit = 9/5 * celsius + 32
 
-avg = sum(nums) / len(nums)
-
-print("Average:", avg)
+print("Temperature (fahrenheit):", fahrenheit)
