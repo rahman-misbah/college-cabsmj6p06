@@ -1,6 +1,5 @@
-from math import pi
+x = int(input("Enter a number: "))
 
-radius = float(input("Enter radius: "))
-area = pi * radius**2
+x >>= 2
 
-print(f"Area: {area : .3f}")
+print(f"The result after dividing by 4 is: {x}")
