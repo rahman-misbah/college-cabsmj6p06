@@ -10,4 +10,4 @@ def frequency_counter(text: str) -> dict:
 text = input("Enter a string: ")
 frequency = frequency_counter(text)
 
-print(frequency)    
+print(frequency)
