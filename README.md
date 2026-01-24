@@ -4,6 +4,7 @@ Program files for my lab work.
 PS: If you want to get your lab files checked, don't worry and `git clone`!
 
 ## Progress Log
+- `2026-01-24` - Add week 11 and 12 questions (q1, q2, q3, q5)
 - `2026-01-24` - Add week 9 and week 10 questions 
 - `2026-01-23` - Add week 8 questions
 - `2026-01-21` - Add week 7 questions
